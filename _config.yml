@@ -1,9 +1,9 @@
 # Site settings
-title: 孔令贤的个人博客
-email: larrykong2016@gmail.com
-description: > #孔令贤的个人博客
+title: 王遥的个人博客
+email: wangyaobeijing@163.com
+description: > #王遥的个人博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://lingxiankong.github.io" # the base hostname & protocol for your site
+url: "https://wangyao.github.io" # the base hostname & protocol for your site
 
 # Paginate（分页）
 #gems: [jekyll-paginate]
@@ -29,13 +29,11 @@ favicon: /assets/image/favicon.ico
 
 # 博客作者相关
 author:
-  name: Lingxian Kong
-  email: lingxian.kong.nz@gmail.com
-  link: http://lingxiankong.github.io/
-  weibo: http://www.weibo.com/lingxiankong
-  weibo_username: Lingxian_Kong
-  github: https://github.com/lingxiankong
-  github_username: lingxiankong
+  name: wangyao
+  email: wangyaobeijing@163.com
+  link: http://wangyao.github.io/
+  github: https://github.com/wangyao
+  github_username: wangyao
 
 
 locals:
@@ -59,4 +57,4 @@ image: /assets/image/
 
 # disqus 设置
 disqus:
-  shortname: lingxiankong
+  shortname: wangyao
