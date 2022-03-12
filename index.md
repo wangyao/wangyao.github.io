@@ -17,4 +17,4 @@ title: 不忘初心，方得始终 - 一品康波的个人博客
 联系方式：
 
 - Email: <wangyaobeijing@163.com>
-- [头条号]https://www.toutiao.com/c/user/token/MS4wLjABAAAAllF4h1EHeHaItR5u9hsxbxp5mXoyf1LO51Mx02iArGc/?source=mine_home&log_from=9db7c9ac243e8_1647073325702&tab=all)
+- [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAllF4h1EHeHaItR5u9hsxbxp5mXoyf1LO51Mx02iArGc/?source=mine_home&log_from=9db7c9ac243e8_1647073325702&tab=all)
