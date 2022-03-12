@@ -2,4 +2,4 @@
 User-agent: *
 Disallow:
 Disallow: /bin/
-Sitemap: http://lingxiankong.github.io/sitemap.xml
+Sitemap: http://wangyao.github.io/sitemap.xml
