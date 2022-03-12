@@ -16,5 +16,7 @@ title: 不忘初心，方得始终 - 王遥的个人博客
 
 - Email: <wangyaobeijing@163.com>
 
+<!--
 ---
 {% include disqus.html %}
+-->
