@@ -2,7 +2,7 @@
 layout: post
 title: aliyunmq http sdk php组件依赖问题解决方案
 description: aliyunmq http sdk php组件依赖问题解决方案
-category: 技术
+category: 005-php
 ---
 
 > 问题简述：aliyunmq/mq-http-sdk 最新版1.0.1 内部依赖问题导致的服务异常情况处理
