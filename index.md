@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 依稀逍遥的个人博客
+title: WangYao's Blog.
 ---
 ---
 
