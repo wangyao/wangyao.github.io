@@ -11,7 +11,7 @@ title: WangYao's Blog.
 
 2012.05.18 ~ 2018.05.18，就职于 上海蔚莱信息技术有限公司。负责公司内部产品的研发，同时担任多个项目的开发组长。该单位是一家集团子公司，集团涉及到业务比较广泛：房地产，电力，木材，仓储物流，宠物食品进出口等。在公司6年时间，赢得了领导及同事的信任，但考虑到自己实际情况，还是决定了回老家发展。
 
-2018.05.28 至今，就职于 武汉鼎森电子科技有限公司，致力于数字出版相关软硬件产品，是目前数字报刊发行的领先者。
+2018.05.18 至今，就职于 武汉鼎森电子科技有限公司，致力于数字出版相关软硬件产品，是目前数字报刊发行的领先者。
 -->
 
 <!--
@@ -27,4 +27,4 @@ title: WangYao's Blog.
 ##### 联系方式：
 
 - <wangyaobeijing@163.com>
-- [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAllF4h1EHeHaItR5u9hsxbxp5mXoyf1LO51Mx02iArGc/?source=mine_home&log_from=9db7c9ac243e8_1647073325702&tab=all)
+<!-- [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAllF4h1EHeHaItR5u9hsxbxp5mXoyf1LO51Mx02iArGc/?source=mine_home&log_from=9db7c9ac243e8_1647073325702&tab=all) -->
