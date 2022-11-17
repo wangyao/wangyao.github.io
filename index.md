@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WangYao's Blog.
+title: NullWater
 ---
 ---
 
@@ -21,11 +21,11 @@ title: WangYao's Blog.
 -->
 
 <!-- 得失从缘，心无增减；喜风不动，冥顺于道。-->
-做人如水，做事如山。
+空杯心态，上善若水。
 
 ---
 
 ##### 联系方式：
 
-- <wangyaobeijing@163.com>
+- <103818149@qq.com>
 <!-- [头条号](https://www.toutiao.com/c/user/token/MS4wLjABAAAAllF4h1EHeHaItR5u9hsxbxp5mXoyf1LO51Mx02iArGc/?source=mine_home&log_from=9db7c9ac243e8_1647073325702&tab=all) -->
