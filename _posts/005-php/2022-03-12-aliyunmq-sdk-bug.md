@@ -1,6 +1,6 @@
 ---
 layout: post
-title: aliyunmq http sdk php组件依赖问题解决方案test
+title: aliyunmq http sdk php组件依赖问题解决方案
 description: aliyunmq http sdk php组件依赖问题解决方案
 category: 005-php
 ---
